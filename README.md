@@ -1,18 +1,18 @@
 # **E-Commerce Data Analysis with Power BI and MySQL**
 
-Welcome to the **E-Commerce Data Analysis** repository! 🎉 This project combines the power of **Power BI** and **MySQL** to analyze and visualize e-commerce data. Dive in to explore actionable insights, stunning dashboards, and how SQL and Power BI can transform raw data into business intelligence.
+Welcome to the **E-Commerce Data Analysis** repository! 🎉 This project combines the power of **Power BI** and **SqlServer** to analyze and visualize e-commerce data. Dive in to explore actionable insights, stunning dashboards, and how SQL and Power BI can transform raw data into business intelligence.
 
 ---
 
 ## **📋 Project Overview**
-This project focuses on analyzing key aspects of an e-commerce business, including **sales**, **customer behavior**, **product performance**, and **supplier analysis**. Using **MySQL** for data extraction and transformation, and **Power BI** for creating interactive dashboards, we deliver insights that drive decision-making.
+This project focuses on analyzing key aspects of an e-commerce business, including **sales**, **customer behavior**, **product performance**, and **supplier analysis**. Using **SQL-SERVER** for data extraction and transformation, and **Power BI** for creating interactive dashboards, we deliver insights that drive decision-making.
 
 ---
 
 ## **✨ Key Features**
 
 ### **Data Integration with MySQL**
-- Data is stored in a **MySQL database**.
+- Data is stored in a **SqlServer database**.
 - SQL queries were used for:
   - Extracting relevant information.
   - Transforming raw data into a structured format.
